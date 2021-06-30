@@ -75,3 +75,13 @@ To run the training script, please ensure the data is organized as following for
 
 - Download the [weight](https://drive.google.com/file/d/1nzhFYOJx3rzvnO8o6g-D1MMA6iQ4VYpw/) pretrained on Youtube-vos for Memory Network
 - Update the `initial` attribution in `option.py`
+
+## Citation
+```
+@article{zhou2021quality,
+  title={Quality-Aware Memory Network for Interactive Volumetric Image Segmentation},
+  author={Zhou, Tianfei and Li, Liulei and Bredell, Gustav and Li, Jianwu and Konukoglu, Ender},
+  journal={arXiv preprint arXiv:2106.10686},
+  year={2021}
+}
+```
