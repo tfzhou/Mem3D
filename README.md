@@ -1,6 +1,6 @@
 # Quality-Aware Memory Network for Interactive Volumetric Image Segmentation
 
-This repo contains the source code of Quality-Aware Memory Network. It is based on [DEXTR](https://github.com/scaelles/DEXTR-PyTorch) and [STM](https://github.com/lyxok1/STM-Training).
+This repo contains the source code of out Quality-Aware Memory Network in MICCAI 2021. It is based on [DEXTR](https://github.com/scaelles/DEXTR-PyTorch) and [STM](https://github.com/lyxok1/STM-Training).
 
 ## Data
 
